@@ -1,0 +1,19 @@
+{
+    "challenges": [
+        {
+            "challengeName": "Exercise",
+            "challengeDescription": "Do Exercise Daily",
+            "challengeDaysLeft": 20,
+            "challengeEachDay": [
+                {
+                    "1": "",
+                    "2": "",
+                    "3": ""
+                }
+            ],
+            "challengeDayFinished":0,
+            "challengeStartDate":null,
+            "challengeFinishDate":null
+        }
+    ]
+}
